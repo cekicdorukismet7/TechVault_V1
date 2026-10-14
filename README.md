@@ -3,9 +3,10 @@
 Hello! I am a Technical High School student specializing in Information Technology and Software Development. I enjoy building practical projects to improve my programming skills and develop real-world software solutions.
 
 This repository features **TechVault**, a Python-based inventory management system designed to organize and track technical equipment.
+
+
 Copyright (c) 2026 TechVault Project Author.
 All rights reserved.
-
 No permission is granted to copy, redistribute,
 or use this code without prior written permission,
 except as permitted by applicable law.
